@@ -67,3 +67,5 @@ This version gets outdoor weather from the internet. It does not measure room te
 ## License
 
 MIT
+
+Developed by : https://github.com/sharif-official
